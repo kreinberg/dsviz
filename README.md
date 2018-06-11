@@ -26,14 +26,14 @@ $ pip install dsviz
 >>> sll.prepend('data')
 >>> sll.render()
 ```
-![figure1]('./images/figure1.png')
+![figure1]('images/figure1.png')
 ```python
 >>> sll.delete('grue')
 >>> sll.insert(4, 'awe')
 >>> sll.append('!')
 >>> sll.render()
 ```
-![figure2]('./images/figure2.png')
+![figure2]('images/figure2.png')
 
 ### Featured data structures
 - ArrayStack
